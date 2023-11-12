@@ -1,2 +1,2 @@
 # pwnagotchi-backup-uploader
-This is my first pwnagotchi plug-in that will upload auto_backup.py outputs to discord via a webhook.
+So we know about auto_backup and how it saves backups, I've had an idea to make a plugin that uploads those plugins into a discord channel with a webhook. This would make it easier if everything goes wrong and you are unable to ssh into your pi or the SD card corrupts for example, this plugin will be able to upload (hopefully) the auto_backup plugin output archives into your discord server with a webhook.
